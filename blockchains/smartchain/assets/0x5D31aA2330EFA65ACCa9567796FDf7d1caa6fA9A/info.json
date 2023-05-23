@@ -1,0 +1,11 @@
+{
+    "name": "MongBNB",
+    "type": "BEP20",
+    "symbol": "MONGBNB",
+    "decimals": 18,
+    "website": "https://mongbnb.io",
+    "description": "MONGBNB ARE A CULTURE. A VIBE.",
+    "explorer": "https://bscscan.com/token/0x5D31aA2330EFA65ACCa9567796FDf7d1caa6fA9A",
+    "status": "active",
+    "id": "0x5D31aA2330EFA65ACCa9567796FDf7d1caa6fA9A"
+}
